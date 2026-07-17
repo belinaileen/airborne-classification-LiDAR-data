@@ -18,7 +18,6 @@
   </tr>
 </table>
 
-
 # Project Description
 
 Point cloud classification is a fundamental task in 3D semantic labeling to enable meaningful interpretation of spatial data by assigning objects to semantic categories. This project focuses on the supervised classification of pre-segmented urban objects represented as point clouds (.xyz). Classification models, including Support Vector Machines (SVM) and Random Forests, are trained to categorize individual object point clouds into classes.
