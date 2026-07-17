@@ -5,10 +5,19 @@
 - Belina Aileen Santoso 
 - Tejas Ameya Ziegler 
 
-| Feature Design | Classification Results |
-|:--------------:|:----------------------:|
-| <img src="img/featuredesigns.png" width="450"> | <img src="img/SVM_RF.png" width="450n. | Performance comparison of SVM and Random Forest models. |
-``
+<table>
+  <tr>
+    <td align="center">
+      <img src="img/featuredesigns.png" alt="Feature Designs" width="450"><br>
+      <b>feature Designs</b>
+    </td>
+    <td align="center">
+      <img src="img/SVM_RF.png" alt="SVM and random forest on supervised ML" width="450"><br>
+      <b>SVM and random forest on supervised ML</b>
+    </td>
+  </tr>
+</table>
+
 
 # Project Description
 
